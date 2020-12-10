@@ -1,0 +1,222 @@
+var myobj = [
+    {
+      models: 'OnePlus 8',
+      image: 'https://i.gadgets360cdn.com/products/small/oneplus-8-240x180-1586878831.jpg?output-quality=80',
+      display: '6.55-inch (1080x2400)',
+      processor: 'Qualcomm Snapdragon 865',
+      frontCamera: '16MP ',
+      rearCamera: '48MP + 16MP + 2MP ',
+      batteryCapacity: '4300mAh',
+      price: '₹ 39,999',
+      brand: 'OnePlus'
+    },
+    {
+      models: 'Infinix Hot 10',
+      image: 'https://i.gadgets360cdn.com/products/small/Infinix-Hot-10-DB-240x180-1600688707.jpg?output-quality=80',
+      display: '6.78-inch (720x1640)',
+      processor: 'MediaTek Helio G70',
+      frontCamera: '8MP ',
+      rearCamera: '16MP + 2MP + 2MP + Low Light',
+      batteryCapacity: '5200mAh',
+      price: '₹ 9,499',
+      brand: 'Infinix'
+    },
+    {
+      models: 'Nokia C3',
+      image: 'https://i.gadgets360cdn.com/products/small/Nokia-C3-DB-240x180-1596528573.jpg?output-quality=80',
+      display: '5.99-inch (720x1440)',
+      processor: 'Spreadtrum SC9863A',
+      frontCamera: '5MP ',
+      rearCamera: '8MP ',
+      batteryCapacity: '3040mAh',
+      price: '₹ 7,199',
+      brand: 'Nokia'
+    },
+    {
+      models: 'Redmi Note 9',
+      image: 'https://i.gadgets360cdn.com/products/small/redmi-note-9-240x180-1595230045.jpg?output-quality=80',
+      display: '6.53-inch (1080x2340)',
+      processor: 'MediaTek Helio G85',
+      frontCamera: '13MP',
+      rearCamera: '48MP + 8MP + 2MP + 2MP ',
+      batteryCapacity: '5020mAh',
+      price: '₹ 11,999',
+      brand: 'Redmi'
+    },
+    {
+      models: 'Vivo S1 Pro',
+      image: 'https://i.gadgets360cdn.com/products/small/vivo-s1-pro-240x180-1574227109.jpg?output-quality=80',
+      display: '6.38-inch (1080x2340)',
+      processor: 'Qualcomm Snapdragon 665',
+      frontCamera: '32MP ',
+      rearCamera: '48MP + 8MP + 2MP + 2MP ',
+      batteryCapacity: '4500mAh',
+      price: '₹ 17,144',
+      brand: 'Vivo'
+    },
+    {
+      models: 'Oppo A15',
+      image: 'https://i.gadgets360cdn.com/products/small/oppo-a15-240x180-1602749115.jpg?output-quality=80',
+      display: '6.52-inch (720x1600)',
+      processor: 'MediaTek Helio P35 ',
+      frontCamera: '5MP',
+      rearCamera: '13MP + 2MP + 2MP',
+      batteryCapacity: '4230mAh',
+      price: '₹ 9,499',
+      brand: 'Oppo'
+    },
+    {
+      models: 'Oppo Reno 2F',
+      image: 'https://i.gadgets360cdn.com/products/small/reno-2F-db-240x180-1567053607.jpg?output-quality=80',
+      display: '6.53-inch (1,080x2,340)',
+      processor: 'MediaTek Helio P70',
+      frontCamera: '16MP',
+      rearCamera: '48MP + 8MP + 2MP + 2MP',
+      batteryCapacity: '4000mAh',
+      price: '₹ 17,990',
+      brand: 'Oppo'
+    },
+    {
+      models: 'Realme 7i',
+      image: 'https://i.gadgets360cdn.com/products/small/Realme-7i-DB-380x800-1599545371-240x180-1600328658.jpg?output-quality=80',
+      display: '6.50-inch (720x1600)',
+      processor: 'Qualcomm Snapdragon 662',
+      frontCamera: '16MP ',
+      rearCamera: '64MP + 8MP + 2MP + 2MP ',
+      batteryCapacity: '5000mAh',
+      price: '₹ 11,999',
+      brand: 'Realme'
+    },
+    {
+      models: 'Realme 7',
+      image: 'https://i.gadgets360cdn.com/products/small/realme-7-240x180-1599116678.jpg?output-quality=80',
+      display: '6.50-inch (1080x2400)',
+      processor: 'MediaTek Helio G95',
+      frontCamera: '16MP ',
+      rearCamera: '64MP + 8MP + 2MP + 2MP ',
+      batteryCapacity: '5000mAh',
+      price: '₹ 14,999',
+      brand: 'Realme'
+    },
+    {
+      models: 'Oppo A52',
+      image: 'https://i.gadgets360cdn.com/products/small/Oppo-A52-240x180-1587709665.png?output-quality=80',
+      display: '6.50-inch (1080x2400)',
+      processor: 'Qualcomm Snapdragon 665',
+      frontCamera: '8MP',
+      rearCamera: '12MP + 8MP + 2MP + 2MP',
+      batteryCapacity: '5000mAh',
+      price: '₹ 13,990',
+      brand: 'Oppo'
+    },
+    {
+      models: 'OnePlus 8T',
+      image: 'https://gadgets.ndtv.com/static/mobile/images/spacer.png',
+      display: '6.55-inch (1080x2400)',
+      processor: '16MP ',
+      frontCamera: '48MP + 16MP + 5MP + 2MP',
+      rearCamera: '4500mAh',
+      batteryCapacity: 'Android 11',
+      price: '₹ 42,999',
+      brand: 'OnePlus'
+    },
+    {
+      models: 'Samsung Galaxy F41',
+      image: 'https://gadgets.ndtv.com/static/mobile/images/spacer.png',
+      display: '6.40-inch (1080x2340)',
+      processor: 'Samsung Exynos 9611',
+      frontCamera: '32MP',
+      rearCamera: '64MP + 8MP + 5MP',
+      batteryCapacity: '6000mAh',
+      price: '₹ 15,499',
+      brand: 'Samsung'
+    },
+    {
+      models: 'Oppo A31 (2020)',
+      image: 'https://gadgets.ndtv.com/static/mobile/images/spacer.png',
+      display: '6.50-inch (720x1600)',
+      processor: 'MediaTek Helio P35 ',
+      frontCamera: '8MP ',
+      rearCamera: '12MP + 2MP + 2MP ',
+      batteryCapacity: '4230mAh',
+      price: '₹ 11,990',
+      brand: 'Oppo'
+    },
+    {
+      models: 'Nokia 6.1 (4GB RAM, 64GB)',
+      image: 'https://gadgets.ndtv.com/static/mobile/images/spacer.png',
+      display: '5.50-inch (1080x1920)',
+      processor: 'Qualcomm Snapdragon 630',
+      frontCamera: '8MP',
+      rearCamera: '16MP',
+      batteryCapacity: '3000mAh',
+      price: '₹ 18,300',
+      brand: 'Nokia'
+    },
+    {
+      models: 'Samsung Galaxy M01',
+      image: 'https://gadgets.ndtv.com/static/mobile/images/spacer.png',
+      display: '5.71-inch (720x1560)',
+      processor: 'Qualcomm Snapdragon 439',
+      frontCamera: '5MP ',
+      rearCamera: '13MP + 2MP ',
+      batteryCapacity: '4000mAh',
+      price: '₹ 7,999',
+      brand: 'Samsung'
+    },
+    {
+      models: 'Micromax Infinity N12',
+      image: 'https://gadgets.ndtv.com/static/mobile/images/spacer.png',
+      display: '6.19-inch (720x1500)',
+      processor: 'MediaTek Helio P22 ',
+      frontCamera: '16MP',
+      rearCamera: '13MP + 5MP',
+      batteryCapacity: '4000mAh',
+      price: '₹ 14,999',
+      brand: 'Micromax'
+    },
+    {
+      models: 'Itel Vision 1',
+      image: 'https://gadgets.ndtv.com/static/mobile/images/spacer.png',
+      display: '6.09-inch (720x1560)',
+      processor: 'Unisoc SC9863A',
+      frontCamera: '5MP ',
+      rearCamera: '8MP + 0.08MP',
+      batteryCapacity: '4000mAh',
+      price: '₹ 6,999',
+      brand: 'Itel'
+    },
+    {
+      models: 'Infinix Smart 4',
+      image: 'https://gadgets.ndtv.com/static/mobile/images/spacer.png',
+      display: '6.82-inch (720x1640)',
+      processor: 'MediaTek Helio A22 ',
+      frontCamera: '8MP ',
+      rearCamera: '13MP + Depth',
+      batteryCapacity: '6000mAh',
+      price: '₹ 6,999',
+      brand: 'Infinix'
+    },
+    {
+      models: 'Redmi 9A',
+      image: 'https://gadgets.ndtv.com/static/mobile/images/spacer.png',
+      display: '6.53-inch (720x1600)',
+      processor: 'MediaTek Helio G25',
+      frontCamera: '5MP ',
+      rearCamera: '13MP ',
+      batteryCapacity: '5000mAh',
+      price: '₹ 6,999',
+      brand: 'Redmi'
+    },
+    {
+      models: 'OnePlus Nord',
+      image: 'https://gadgets.ndtv.com/static/mobile/images/spacer.png',
+      display: '6.44-inch (1080x2400)',
+      processor: 'Qualcomm Snapdragon 765G',
+      frontCamera: '32MP + 8MP ',
+      rearCamera: '48MP + 8MP + 5MP + 2MP ',
+      batteryCapacity: '4115mAh',
+      price: '₹ 27,999',
+      brand: 'OnePlus'
+    }
+  ]

@@ -1,0 +1,82 @@
+
+<h4 style="margin-left:200px; margin-top: 20px">Edit Car</h4>
+<button routerLink="/" class="btn btn-primary btn-sm mb-4" style="margin-left: 90px;">Back</button>
+<div class="container">
+    <form #form="ngForm" (ngSubmit)="onSubmit(form)" >
+        <div class="card w-50">
+            <div class="card-body ">
+                <div class="form-group" style="align-content: center;">
+                    <label>model</label>
+                    <input 
+                    type="text" 
+                    class="form-control "
+                    [(ngModel)]="car.model" 
+                    name="model"
+                    #model="ngModel" 
+                    required  
+                    [ngClass]="{'is-invalid': model.errors && model.touched}" 
+                    minlength="2">
+                    <div [hidden]="!model.errors?.required" class="invalid-feedback">model name required</div>
+                    <div [hidden]="!model.errors?.minlength" class="invalid-feedback">Must be at least 2 charecters</div>
+                </div>
+                
+                <div class="form-group">
+                    <label>manufacturer</label>
+                    <input type="text"
+                    class="form-control" 
+                    [(ngModel)]="car.manufacturer" 
+                    name="manufacturer"
+                    #manufacturer="ngModel"
+                    required 
+                    [ngClass]="{'is-invalid': model.errors && model.touched}" 
+                    minlength="2">
+                    <div [hidden]="!manufacturer.errors?.required" class="invalid-feedback">manufacture name required</div>
+                    <div [hidden]="!manufacturer.errors?.minlength" class="invalid-feedback">Must be at least 2 charecters</div>
+                </div>
+                <div class="form-group">
+                    <label>type</label>
+                    <input type="text"
+                    class="form-control" 
+                    [(ngModel)]="car.type"
+                    name="body"
+                    #type
+                    [ngClass]="{'is-invalid': type.errors && type.touched}"  
+                    required >
+                </div>
+                <div class="form-group">
+                    <label>year</label>
+                    <input 
+                    type="text" 
+                    class="form-control"
+                    [(ngModel)]="car.year"
+                    name="year"
+                    #year="ngModel" 
+                    required
+                    minlength="4"
+                    [ngClass]="{'is-invalid': model.errors && model.touched}"                   
+                    >
+                    <div [hidden]="!year.errors?.required" class="invalid-feedback">car year required</div>
+                    <div [hidden]="!year.errors?.minlength" class="invalid-feedback">Must be exact 4 digits</div>
+                    
+                </div>
+                <div class="form-group">
+                    <label>plate</label>
+                    <input type="text" class="form-control" [(ngModel)]="car.plate" name="plate" #plate >
+                </div>
+                <div class="form-group">
+                    <label>imageUrl</label>
+                    <input type="text" class="form-control" [(ngModel)]="car.imageUrl" name="imageUrl" #imageUrl>
+                </div>
+                <img class="card-img-bottom" src="{{car.imageUrl}}" alt="Card image cap">
+                <div class="buttons" style="position: absolute; bottom: 0;right: 0;">
+                    <button type="button" (click)="clearForm(form)" class="btn btn-danger"   ><i class="fa fa-remove" ></i></button>
+                     <button [disabled]="form.form.invalid" 
+                   class="btn btn-primary" ><i class="fa fa-check"></i></button>
+                </div>
+            </div>
+            <button type="button" (click)="removeCar(car)"  class="btn btn-danger" style="bottom: 0;left: 0; position: absolute;margin-left:300px" ><i class="fa fa-remove" ></i>Remove Car</button>
+        </div>
+
+
+    </form>
+</div>

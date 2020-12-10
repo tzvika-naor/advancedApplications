@@ -1,0 +1,23 @@
+<nav class="navbar navbar-expand-md navbar-dark bg-primary">
+    <div class="container">
+        <a routerLink="/" class="navbar-brand  h1" style="cursor: pointer" appHighlight><span>#ShoppingCart</span></a>
+        
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMain">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+       
+        <ul class="navbar-nav ml-auto">
+            <!-- <input class="form-control w-50 " style="text-align: center;" type="text" placeholder="Search" aria-label="Search"> -->
+            <li class="nav-item">
+                <a routerLink="users"  class="nav-link" style="cursor: pointer" (click)="onLogin()">Users</a>
+            </li>
+            <li class="nav-item">
+                <a routerLink="signup" class="nav-link" style="cursor: pointer">Sign Up</a>
+            </li>
+            <li class="nav-item">
+                <a routerLink="login"  class="nav-link" style="cursor: pointer" (click)="onLogin()">Login</a>
+            </li>
+            <a routerLink="/" style="cursor: pointer" ><span appHighlight><i  class="fa fa-shopping-cart fa-2x"></i></span></a>
+        </ul>
+    </div>
+</nav>

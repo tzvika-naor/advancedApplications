@@ -1,0 +1,42 @@
+#title{
+    margin-top: 20px;
+    margin-bottom: 50px;
+    text-align: center
+}
+#select0{
+    justify-content: center;
+    text-align: center;
+    cursor: pointer;
+    background-color: rgb(144, 153, 238)
+}
+#select1{
+
+
+    justify-content: center;
+    text-align: center;
+    cursor: pointer;
+    background-color: rgb(144, 153, 238)
+}
+
+#select2{
+    
+    justify-content: center;
+    text-align: center;
+    cursor: pointer;
+    background-color: rgb(144, 153, 238)
+}
+
+#option{
+    background-color: rgb(144, 153, 238)
+}
+#searchFields{
+    text-align:center;
+    justify-content: center;
+    align-items: center;
+}
+#container0{
+  /* border-bottom: rgb(60, 121, 60) 2px solid; */
+    text-align:center; 
+    margin:50px auto;
+    overflow: hidden;
+}

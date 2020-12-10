@@ -1,0 +1,701 @@
+[{
+    "manufacturer": "Chrysler",
+    "model": "LeBaron",
+    "year": 1992,
+    "plate": "25-778-36",
+    "type": "Mid-size",
+    "imageUrl": "https://i.ytimg.com/vi/uXjncDipi6M/maxresdefault.jpg"
+  }, {
+    "manufacturer": "Mitsubishi",
+    "model": "Eclipse",
+    "year": 1997,
+    "plate": "64-458-06",
+    "type": "Compact car",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Mitsubishi_Eclipse_--_09-08-2009.jpg/420px-Mitsubishi_Eclipse_--_09-08-2009.jpg"
+  }, {
+    "manufacturer": "Mitsubishi",
+    "model": "Montero",
+    "year": 1994,
+    "plate": "97-257-10",
+    "type": "",
+    "imageUrl": ""
+  }, {
+    "manufacturer": "Kia",
+    "model": "Rondo",
+    "year": 2009,
+    "plate": "10-942-78",
+    "type": "SUV",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Mitsubishi_Pajero_Exceed.jpg/420px-Mitsubishi_Pajero_Exceed.jpg"
+  }, {
+    "manufacturer": "Chevrolet",
+    "model": "Silverado 1500",
+    "year": 2003,
+    "plate": "14-371-99",
+    "type": "Full-size",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/2014_Chevrolet_Silverado_1500_LTZ_Double_Cab_5.3L_Hagerty_parking_lot%2C_6.1.19.jpg/420px-2014_Chevrolet_Silverado_1500_LTZ_Double_Cab_5.3L_Hagerty_parking_lot%2C_6.1.19.jpg"
+  }, {
+    "manufacturer": "Audi",
+    "model": "RS 4",
+    "year": 2007,
+    "plate": "07-075-23",
+    "type": "Compact executive car",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Audi_RS4_Avant_IMG_0732.jpg/420px-Audi_RS4_Avant_IMG_0732.jpg"
+  }, {
+    "manufacturer": "Ford",
+    "model": "Bronco II",
+    "year": 1988,
+    "plate": "22-425-08",
+    "type": "Full-size SUV",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/1992-96_Ford_Bronco.jpg/420px-1992-96_Ford_Bronco.jpg"
+  }, {
+    "manufacturer": "Ford",
+    "model": "Laser",
+    "year": 1985,
+    "plate": "66-658-12",
+    "type": "SUV",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Ford_Bronco_II.jpg/420px-Ford_Bronco_II.jpg"
+  }, {
+    "manufacturer": "Hyundai",
+    "model": "Elantra",
+    "year": 2010,
+    "plate": "76-951-92",
+    "type": "Compact car",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2017_Hyundai_Elantra_%28AD%29_front_3.25.18.jpg/420px-2017_Hyundai_Elantra_%28AD%29_front_3.25.18.jpg"
+  }, {
+    "manufacturer": "Toyota",
+    "model": "TundraMax",
+    "year": 2012,
+    "plate": "18-918-95",
+    "type": "Full-size",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Toyota_Tundra_SR5_Double_Cab_--_12-26-2009.jpg/420px-Toyota_Tundra_SR5_Double_Cab_--_12-26-2009.jpg"
+  }, {
+    "manufacturer": "Toyota",
+    "model": "Tacoma",
+    "year": 2000,
+    "plate": "18-759-77",
+    "type": "Compact pickup truck",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/2011_Toyota_Tacoma_Double_Cab_--_NHTSA.jpg/420px-2011_Toyota_Tacoma_Double_Cab_--_NHTSA.jpg"
+  }, {
+    "manufacturer": "Mazda",
+    "model": "Familia",
+    "year": 1987,
+    "plate": "13-394-31",
+    "type": "Subcompact",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/2003_Mazda_323_%28BJ_II%29_Proteg%C3%A9_Shades_sedan_%282015-08-07%29_01.jpg/420px-2003_Mazda_323_%28BJ_II%29_Proteg%C3%A9_Shades_sedan_%282015-08-07%29_01.jpg"
+  }, {
+    "manufacturer": "Porsche",
+    "model": "968",
+    "year": 1994,
+    "plate": "24-469-79",
+    "type": "Sports car",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Porsche_968_01.jpg/420px-Porsche_968_01.jpg"
+  }, {
+    "manufacturer": "Volkswagen",
+    "model": "Jetta",
+    "year": 1991,
+    "plate": "26-351-04",
+    "type": "Compact car",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/2019_Volkswagen_Jetta_front_7.11.18.jpg/420px-2019_Volkswagen_Jetta_front_7.11.18.jpg"
+  }, {
+    "manufacturer": "GMC",
+    "model": "Yukon XL 2500",
+    "year": 2004,
+    "plate": "31-469-96",
+    "type": "SUV",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2000-2006_Chevrolet_Suburban.jpg/420px-2000-2006_Chevrolet_Suburban.jpg"
+  }, {
+    "manufacturer": "Chevrolet",
+    "model": "Traverse",
+    "year": 2012,
+    "plate": "46-753-86",
+    "type": "SUV",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Chevrolet_Traverse_3.6_LT_2018_%2839073968431%29.jpg/420px-Chevrolet_Traverse_3.6_LT_2018_%2839073968431%29.jpg"
+  }, {
+    "manufacturer": "Acura",
+    "model": "TL",
+    "year": 2012,
+    "plate": "47-436-10",
+    "type": "Compact executive car",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/2007-2008_Acura_TL_--_03-16-2012.JPG/420px-2007-2008_Acura_TL_--_03-16-2012.JPG"
+  }, {
+    "manufacturer": "Chrysler",
+    "model": "Town & Country",
+    "year": 1996,
+    "plate": "01-320-34",
+    "type": "Minivan",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/2011_Chrysler_Town_%26_Country_Touring_-_L_--_04-22-2011.jpg/420px-2011_Chrysler_Town_%26_Country_Touring_-_L_--_04-22-2011.jpg"
+  }, {
+    "manufacturer": "Mitsubishi",
+    "model": "Montero",
+    "year": 2005,
+    "plate": "78-448-39",
+    "type": "SUV",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Mitsubishi_Pajero_Exceed.jpg/420px-Mitsubishi_Pajero_Exceed.jpg"
+  }, {
+    "manufacturer": "Ford",
+    "model": "Ranger",
+    "year": 2009,
+    "plate": "15-225-63",
+    "type": "Mid-size SUV",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/2018_Ford_Ranger_%28PX%29_XLT_4WD_4-door_utility_%282018-10-22%29_01.jpg/330px-2018_Ford_Ranger_%28PX%29_XLT_4WD_4-door_utility_%282018-10-22%29_01.jpg"
+  }, {
+    "manufacturer": "Land Rover",
+    "model": "LR3",
+    "year": 2005,
+    "plate": "46-248-77",
+    "type": "Mid-size SUV",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/2018_Land_Rover_Discovery_Luxury_HSE_TD6_3.0_Front.jpg/420px-2018_Land_Rover_Discovery_Luxury_HSE_TD6_3.0_Front.jpg"
+  }, {
+    "manufacturer": "Ford",
+    "model": "Escape",
+    "year": 2004,
+    "plate": "10-526-34",
+    "type": "5-door SUV",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/2018_Ford_Escape_Titanium_2.0L_front_5.19.19.jpg/420px-2018_Ford_Escape_Titanium_2.0L_front_5.19.19.jpg"
+  }, {
+    "manufacturer": "Nissan",
+    "model": "Quest",
+    "year": 2006,
+    "plate": "15-621-82",
+    "type": "Minivan",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Nissan_Quest_RE52_China_2017-03-30.jpg/420px-Nissan_Quest_RE52_China_2017-03-30.jpg"
+  }, {
+    "manufacturer": "Porsche",
+    "model": "911",
+    "year": 1991,
+    "plate": "87-943-98",
+    "type": "Sports car",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Porsche_911_No_1000000%2C_70_Years_Porsche_Sports_Car%2C_Berlin_%281X7A3888%29.jpg/420px-Porsche_911_No_1000000%2C_70_Years_Porsche_Sports_Car%2C_Berlin_%281X7A3888%29.jpg"
+  }, {
+    "manufacturer": "Lotus",
+    "model": "Esprit",
+    "year": 2004,
+    "plate": "84-044-02",
+    "type": "Sports car",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/1999_Lotus_Esprit_V8_type_918.jpg/420px-1999_Lotus_Esprit_V8_type_918.jpg"
+  }, {
+    "manufacturer": "Maybach",
+    "model": "Landaulet",
+    "year": 2010,
+    "plate": "26-481-45",
+    "type": "Ultra luxtury car",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/%D0%9C%D0%B0%D0%B9%D0%B1%D0%B0%D1%85_%D0%B2_%D0%90%D0%BB%D0%BC%D0%B0-%D0%90%D1%82%D0%B5.JPG/420px-%D0%9C%D0%B0%D0%B9%D0%B1%D0%B0%D1%85_%D0%B2_%D0%90%D0%BB%D0%BC%D0%B0-%D0%90%D1%82%D0%B5.JPG"
+  }, {
+    "manufacturer": "BMW",
+    "model": "M3",
+    "year": 1997,
+    "plate": "32-529-62",
+    "type": "Compact executive car",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/BMW_M3_CSL%2BM3_E30_%282741406343%29.jpg/420px-BMW_M3_CSL%2BM3_E30_%282741406343%29.jpg"
+  }, {
+    "manufacturer": "Saab",
+    "model": "900",
+    "year": 1990,
+    "plate": "94-093-34",
+    "type": "Compact executive car",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Saab_900i_16v_285.jpg/420px-Saab_900i_16v_285.jpg"
+  }, {
+    "manufacturer": "Plymouth",
+    "model": "Laser",
+    "year": 1989,
+    "plate": "88-061-95",
+    "type": "Sports car",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/1990_Plymouth_Laser_RS_Turbo_red.jpg/420px-1990_Plymouth_Laser_RS_Turbo_red.jpg"
+  }, {
+    "manufacturer": "Mercedes-Benz",
+    "model": "300SL",
+    "year": 1993,
+    "plate": "33-678-74",
+    "type": "Sports car",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Fox_Classic_Car_Collection%2C_2008_%2802%29.JPG/420px-Fox_Classic_Car_Collection%2C_2008_%2802%29.JPG"
+  }, {
+    "manufacturer": "Mitsubishi",
+    "model": "3000GT",
+    "year": 1997,
+    "plate": "84-074-33",
+    "type": "Sports car",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Mitsubishi_3000GT_--_03-21-2012.JPG/420px-Mitsubishi_3000GT_--_03-21-2012.JPG"
+  }, {
+    "manufacturer": "Mercedes-Benz",
+    "model": "M-Class",
+    "year": 2003,
+    "plate": "09-960-78",
+    "type": "Mid-size luxury SUV",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/2020_Mercedes-Benz_GLE_350_4Matic_front_6.16.19.jpg/420px-2020_Mercedes-Benz_GLE_350_4Matic_front_6.16.19.jpg"
+  }, {
+    "manufacturer": "Suzuki",
+    "model": "Esteem",
+    "year": 1998,
+    "plate": "35-568-91",
+    "type": "Compact car",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/99-00_Suzuki_Esteem_sedan.jpg/1200px-99-00_Suzuki_Esteem_sedan.jpg"
+  }, {
+    "manufacturer": "Hummer",
+    "model": "H1",
+    "year": 2001,
+    "plate": "82-771-07",
+    "type": "Large truck SUV",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/H1opentop.jpg/420px-H1opentop.jpg"
+  }, {
+    "manufacturer": "Nissan",
+    "model": "GT-R",
+    "year": 2013,
+    "plate": "73-567-77",
+    "type": "Sports car",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/2012_Nissan_GT-R_Egoist.jpg/420px-2012_Nissan_GT-R_Egoist.jpg"
+  }, {
+    "manufacturer": "Suzuki",
+    "model": "Esteem",
+    "year": 2002,
+    "plate": "77-817-27",
+    "type": "Compact car",
+    "imageUrl": "https://www.newcartestdrive.com/wp-content/uploads/2001/04/01esteem.jpg"
+  }, {
+    "manufacturer": "Ford",
+    "model": "Thunderbird",
+    "year": 1989,
+    "plate": "31-747-70",
+    "type": "Personal luxury car",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/1957_Ford_Thunderbird_%2828911503716%29_%28cropped%29.jpg/420px-1957_Ford_Thunderbird_%2828911503716%29_%28cropped%29.jpg"
+  }, {
+    "manufacturer": "GMC",
+    "model": "Acadia",
+    "year": 2009,
+    "plate": "05-205-22",
+    "type": "Full-size",
+    "imageUrl": "SUV"
+  }, {
+    "manufacturer": "Pontiac",
+    "model": "Montana",
+    "year": 2003,
+    "plate": "51-832-50",
+    "type": "",
+    "imageUrl": ""
+  }, {
+    "manufacturer": "Isuzu",
+    "model": "Amigo",
+    "year": 1994,
+    "plate": "46-454-66",
+    "type": "",
+    "imageUrl": ""
+  }, {
+    "manufacturer": "Chevrolet",
+    "model": "S10",
+    "year": 1999,
+    "plate": "89-027-58",
+    "type": "Minivan",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Pontiac_Montana_LWB.jpg/420px-Pontiac_Montana_LWB.jpg"
+  }, {
+    "manufacturer": "Ford",
+    "model": "Explorer",
+    "year": 2012,
+    "plate": "54-678-50",
+    "type": "Mid-size SUV",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/2011_Ford_Explorer_XLT_--_05-18-2011.jpg/420px-2011_Ford_Explorer_XLT_--_05-18-2011.jpg"
+  }, {
+    "manufacturer": "Ford",
+    "model": "Econoline E150",
+    "year": 1997,
+    "plate": "42-499-27",
+    "type": "Full-size van",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ford_E-Series_wagon.jpg/420px-Ford_E-Series_wagon.jpg"
+  }, {
+    "manufacturer": "Oldsmobile",
+    "model": "Bravada",
+    "year": 1997,
+    "plate": "37-514-25",
+    "type": "Mid-size luxury SUV",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/3rd_Oldsmobile_Bravada.jpg/420px-3rd_Oldsmobile_Bravada.jpg"
+  }, {
+    "manufacturer": "BMW",
+    "model": "530",
+    "year": 2002,
+    "plate": "20-228-80",
+    "type": "Executive car",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/2018_BMW_540i_in_white%2C_front_right.jpg/420px-2018_BMW_540i_in_white%2C_front_right.jpg"
+  }, {
+    "manufacturer": "Ford",
+    "model": "E-Series",
+    "year": 1994,
+    "plate": "41-437-02",
+    "type": "Full-size van",
+    "imageUrl": "https://hips.hearstapps.com/hmg-prod/amv-prod-cad-assets/images/media/267369/2008-ford-e-150-and-e-350-photo-202353-s-original.jpg?fill=2:1&resize=480:*"
+  }, {
+    "manufacturer": "GMC",
+    "model": "Sierra 1500",
+    "year": 2012,
+    "plate": "56-193-29",
+    "type": "Full-size truck",
+    "imageUrl": "https://www.gmc.com/content/dam/gmc/na/us/english/index/shared-assets/jellybeans/2020/sierra/sierra-1500/sierra-sle/2020-sierra-1500-satin-steel-metallic-update.jpg?imwidth=960"
+  }, {
+    "manufacturer": "Dodge",
+    "model": "Ram Wagon B150",
+    "year": 1992,
+    "plate": "55-482-74",
+    "type": "Full-size van",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Recreational_Vehicle.JPG/420px-Recreational_Vehicle.JPG"
+  }, {
+    "manufacturer": "Acura",
+    "model": "TSX",
+    "year": 2007,
+    "plate": "66-554-62",
+    "type": "Compact execitive car",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/06-08_Acura_TSX.jpg/420px-06-08_Acura_TSX.jpg"
+  }, {
+    "manufacturer": "Mitsubishi",
+    "model": "Montero Sport",
+    "year": 2000,
+    "plate": "48-761-13",
+    "type": "Mid size SUV",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/2017_Mitsubishi_Pajero_Sport_2.4_Dakar_Ultimate_wagon_%28KR1W%3B_12-22-2018%29%2C_South_Tangerang.jpg/420px-2017_Mitsubishi_Pajero_Sport_2.4_Dakar_Ultimate_wagon_%28KR1W%3B_12-22-2018%29%2C_South_Tangerang.jpg"
+  }, {
+    "manufacturer": "Chevrolet",
+    "model": "Camaro",
+    "year": 1999,
+    "plate": "52-228-87",
+    "type": "",
+    "imageUrl": ""
+  }, {
+    "manufacturer": "Suzuki",
+    "model": "SX4",
+    "year": 2008,
+    "plate": "20-809-65",
+    "type": "Pony car",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/2019_Chevrolet_Camaro_base%2C_front_11.9.19.jpg/420px-2019_Chevrolet_Camaro_base%2C_front_11.9.19.jpg"
+  }, {
+    "manufacturer": "Volkswagen",
+    "model": "Golf",
+    "year": 1993,
+    "plate": "12-085-89",
+    "type": "Compact car",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/2018_Volkswagen_Golf_SE_Navigation_TSi_BlueMotion_1.0_Front.jpg"
+  }, {
+    "manufacturer": "MINI",
+    "model": "Cooper",
+    "year": 2011,
+    "plate": "02-913-63",
+    "type": "Subcompact",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/2007-2010_Mini_Cooper_S_--_08-28-2011.jpg/375px-2007-2010_Mini_Cooper_S_--_08-28-2011.jpg"
+  }, {
+    "manufacturer": "Lincoln",
+    "model": "Mark VIII",
+    "year": 1994,
+    "plate": "99-134-41",
+    "type": "Personal luxury car",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Mark_VIII.JPG/420px-Mark_VIII.JPG"
+  }, {
+    "manufacturer": "Honda",
+    "model": "CR-V",
+    "year": 1997,
+    "plate": "10-622-34",
+    "type": "Compact crossover SUV",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/2018_Honda_CR-V_%28RW_MY18%29_%2BSport_2WD_wagon_%282018-10-22%29_01.jpg/420px-2018_Honda_CR-V_%28RW_MY18%29_%2BSport_2WD_wagon_%282018-10-22%29_01.jpg"
+  }, {
+    "manufacturer": "Buick",
+    "model": "LeSabre",
+    "year": 1994,
+    "plate": "55-718-78",
+    "type": "Full-size car",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/00-05_Buick_LeSabre_1.jpg/420px-00-05_Buick_LeSabre_1.jpg"
+  }, {
+    "manufacturer": "Toyota",
+    "model": "Camry",
+    "year": 2007,
+    "plate": "43-453-76",
+    "type": "Mid-size car",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/2018_Toyota_Camry_%28ASV70R%29_Ascent_sedan_%282018-08-27%29_01.jpg/420px-2018_Toyota_Camry_%28ASV70R%29_Ascent_sedan_%282018-08-27%29_01.jpg"
+  }, {
+    "manufacturer": "Mercedes-Benz",
+    "model": "E-Class",
+    "year": 2005,
+    "plate": "06-915-92",
+    "type": "Executive car",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/2019_Mercedes-Benz_E220d_SE_Automatic_2.0_Front.jpg/420px-2019_Mercedes-Benz_E220d_SE_Automatic_2.0_Front.jpg"
+  }, {
+    "manufacturer": "Land Rover",
+    "model": "Range Rover",
+    "year": 2010,
+    "plate": "01-983-09",
+    "type": "Full-size SUV",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/2011_Range_Rover_--_12-31-2010.jpg/420px-2011_Range_Rover_--_12-31-2010.jpg"
+  }, {
+    "manufacturer": "Dodge",
+    "model": "Avenger",
+    "year": 2011,
+    "plate": "78-459-20",
+    "type": "Mid-size car",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/2012_Dodge_Avenger_--_NHTSA.jpg/420px-2012_Dodge_Avenger_--_NHTSA.jpg"
+  }, {
+    "manufacturer": "Chevrolet",
+    "model": "Venture",
+    "year": 1998,
+    "plate": "30-645-28",
+    "type": "Minivan",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/01-05_Chevrolet_Venture.jpg/420px-01-05_Chevrolet_Venture.jpg"
+  }, {
+    "manufacturer": "Volkswagen",
+    "model": "R32",
+    "year": 2004,
+    "plate": "29-355-99",
+    "type": "Compact car",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/1998-1999_Volkswagen_Golf_%281J%29_GLE_5-door_hatchback_01.jpg/420px-1998-1999_Volkswagen_Golf_%281J%29_GLE_5-door_hatchback_01.jpg"
+  }, {
+    "manufacturer": "Oldsmobile",
+    "model": "Alero",
+    "year": 2001,
+    "plate": "31-465-96",
+    "type": "Compact car",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Oldsmobile_Alero_sedan_--_03-16-2012.JPG/420px-Oldsmobile_Alero_sedan_--_03-16-2012.JPG"
+  }, {
+    "manufacturer": "Mercedes-Benz",
+    "model": "CLK-Class",
+    "year": 2002,
+    "plate": "33-094-57",
+    "type": "Compact executive car",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CLK_209_%28Cabriolet%29.jpg/420px-CLK_209_%28Cabriolet%29.jpg"
+  }, {
+    "manufacturer": "Jaguar",
+    "model": "XK Series",
+    "year": 2004,
+    "plate": "30-947-93",
+    "type": "Grand tourer",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Jaguar_XKR_Coup%C3%A9_%28X150%29_Facelift_front_20100717.jpg/420px-Jaguar_XKR_Coup%C3%A9_%28X150%29_Facelift_front_20100717.jpg"
+  }, {
+    "manufacturer": "Buick",
+    "model": "Park Avenue",
+    "year": 1998,
+    "plate": "82-543-92",
+    "type": "Full-size car",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/2001_Buick_Park_Avenue.jpg/420px-2001_Buick_Park_Avenue.jpg"
+  }, {
+    "manufacturer": "Mazda",
+    "model": "Millenia",
+    "year": 1998,
+    "plate": "89-993-73",
+    "type": "Executive car",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/1998-2000_Mazda_Millenia.jpg/420px-1998-2000_Mazda_Millenia.jpg"
+  }, {
+    "manufacturer": "Mercedes-Benz",
+    "model": "GL-Class",
+    "year": 2010,
+    "plate": "20-225-59",
+    "type": "Full-size luxury SUV",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/2020_Mercedes-Benz_GLS_450%2C_front_1.20.20.jpg/420px-2020_Mercedes-Benz_GLS_450%2C_front_1.20.20.jpg"
+  }, {
+    "manufacturer": "Cadillac",
+    "model": "SRX",
+    "year": 2012,
+    "plate": "92-469-69",
+    "type": "Mid-size luxury SUV",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2010-2012_Cadillac_SRX_--_05-23-2012.JPG/420px-2010-2012_Cadillac_SRX_--_05-23-2012.JPG"
+  }, {
+    "manufacturer": "Nissan",
+    "model": "300ZX",
+    "year": 1995,
+    "plate": "27-757-53",
+    "type": "Sports car",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Mondial_de_l%27Automobile_2010%2C_Paris_-_France_%285058344615%29.jpg/420px-Mondial_de_l%27Automobile_2010%2C_Paris_-_France_%285058344615%29.jpg"
+  }, {
+    "manufacturer": "Ford",
+    "model": "E250",
+    "year": 2009,
+    "plate": "68-845-04",
+    "type": "Full-size van",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ford_E-Series_wagon.jpg/420px-Ford_E-Series_wagon.jpg"
+  }, {
+    "manufacturer": "Oldsmobile",
+    "model": "Alero",
+    "year": 2003,
+    "plate": "62-628-90",
+    "type": "Compact car",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Oldsmobile_Alero_sedan_--_03-16-2012.JPG/420px-Oldsmobile_Alero_sedan_--_03-16-2012.JPG"
+  }, {
+    "manufacturer": "Volkswagen",
+    "model": "GTI",
+    "year": 2001,
+    "plate": "93-507-11",
+    "type": "Compact car",
+    "imageUrl": "https://cars.usnews.com/static/images/Auto/izmo/i2345006/2017_volkswagen_golf_gti_angularfront.jpg"
+  }, {
+    "manufacturer": "Porsche",
+    "model": "Cayman",
+    "year": 2008,
+    "plate": "41-566-36",
+    "type": "Mid-size luxury SUV",
+    "imageUrl": "https://images.hgmsites.net/hug/porsche-cayenne_100701552_h.jpg"
+  }, {
+    "manufacturer": "Dodge",
+    "model": "Viper",
+    "year": 1995,
+    "plate": "26-390-82",
+    "type": "Sports car",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Aewroi.jpg/420px-Aewroi.jpg"
+  }, {
+    "manufacturer": "Pontiac",
+    "model": "Grand Prix",
+    "year": 1986,
+    "plate": "11-553-71",
+    "type": "Mid-size car",
+    "imageUrl": "https://i.redd.it/whelwdfvvip21.jpg"
+  }, {
+    "manufacturer": "Chevrolet",
+    "model": "Equinox",
+    "year": 2010,
+    "plate": "59-890-66",
+    "type": "Mid-size crossover SUV",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/2019_Chevrolet_Equinox%2C_front_3.24.19.jpg/420px-2019_Chevrolet_Equinox%2C_front_3.24.19.jpg"
+  }, {
+    "manufacturer": "Mitsubishi",
+    "model": "Space",
+    "year": 1984,
+    "plate": "27-429-88",
+    "type": "Minivan",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Mitsubishi_Space_Star_front_20080228.jpg/420px-Mitsubishi_Space_Star_front_20080228.jpg"
+  }, {
+    "manufacturer": "Toyota",
+    "model": "Prius",
+    "year": 2003,
+    "plate": "56-113-19",
+    "type": "Subcompact car",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/2016_Toyota_Prius_%28ZVW50R%29_Hybrid_liftback_%282016-04-02%29_01.jpg/420px-2016_Toyota_Prius_%28ZVW50R%29_Hybrid_liftback_%282016-04-02%29_01.jpg"
+  }, {
+    "manufacturer": "Ford",
+    "model": "Ranger",
+    "year": 1991,
+    "plate": "03-809-18",
+    "type": "Compact pickup truck",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/2007_Ford_Ranger_Thunder_TDCI_Automatic_3.0_Front.jpg"
+  }, {
+    "manufacturer": "Mercedes-Benz",
+    "model": "Sprinter",
+    "year": 2011,
+    "plate": "71-322-07",
+    "type": "Light commercial vehicle",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/2019_Mercedes-Benz_Sprinter_314_CDi_2.1.jpg/420px-2019_Mercedes-Benz_Sprinter_314_CDi_2.1.jpg"
+  }, {
+    "manufacturer": "Mercury",
+    "model": "Tracer",
+    "year": 1999,
+    "plate": "47-544-88",
+    "type": "Subcompact car",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Mercury-Tracer-sedan.jpg/420px-Mercury-Tracer-sedan.jpg"
+  }, {
+    "manufacturer": "Mitsubishi",
+    "model": "Mirage",
+    "year": 2000,
+    "plate": "96-174-59",
+    "type": "Subcompact car",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Mitsubishi_Space_Star_1.2_MIVEC_ClearTec_%28cropped%29.JPG/420px-Mitsubishi_Space_Star_1.2_MIVEC_ClearTec_%28cropped%29.JPG"
+  }, {
+    "manufacturer": "Chevrolet",
+    "model": "Beretta",
+    "year": 1995,
+    "plate": "46-006-66",
+    "type": "Sport compact (C)",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/1996ChevroletBeretta-front.jpg/420px-1996ChevroletBeretta-front.jpg"
+  }, {
+    "manufacturer": "Ford",
+    "model": "Explorer",
+    "year": 1997,
+    "plate": "95-336-30",
+    "type": "Mid-size SUV",
+    "imageUrl": "https://www.newcartestdrive.com/wp-content/uploads/1999/11/explorer_p1.jpg"
+  }, {
+    "manufacturer": "Toyota",
+    "model": "Xtra",
+    "year": 1993,
+    "plate": "73-803-79",
+    "type": "Compact pickup truck",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/2016_Toyota_HiLux_Invincible_D-4D_4WD_2.4_Front.jpg/420px-2016_Toyota_HiLux_Invincible_D-4D_4WD_2.4_Front.jpg"
+  }, {
+    "manufacturer": "Subaru",
+    "model": "Forester",
+    "year": 2004,
+    "plate": "67-472-05",
+    "type": "Mid-size SUV",
+    "imageUrl": "https://crdms.images.consumerreports.org/c_lfill,w_720,q_auto,f_auto/prod/cars/chrome-historical/white/CAB40SUS041B0101"
+  }, {
+    "manufacturer": "Lexus",
+    "model": "GS",
+    "year": 2011,
+    "plate": "25-896-52",
+    "type": "Executive car (E)",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Lexus_GS_450h_F_Sport_%E2%80%93_Frontansicht%2C_17._Juni_2012%2C_D%C3%BCsseldorf.jpg/420px-Lexus_GS_450h_F_Sport_%E2%80%93_Frontansicht%2C_17._Juni_2012%2C_D%C3%BCsseldorf.jpg"
+  }, {
+    "manufacturer": "BMW",
+    "model": "M5",
+    "year": 2003,
+    "plate": "66-703-68",
+    "type": "Compact car",
+    "imageUrl": "https://media.ed.edmunds-media.com/bmw/5-series/2001/oem/2001_bmw_5-series_sedan_m5_fq_oem_1_500.jpg"
+  }, {
+    "manufacturer": "Cadillac",
+    "model": "Escalade EXT",
+    "year": 2002,
+    "plate": "96-577-57",
+    "type": "Full-size luxury SUV",
+    "imageUrl": "https://cdn05.carsforsale.com/00c883c9d3d2342346e3ebe3bea76ff686/800x600/2002-cadillac-escalade-ext-base-awd-4dr-crew-cab-sb.jpg"
+  }, {
+    "manufacturer": "Buick",
+    "model": "Roadmaster",
+    "year": 1991,
+    "plate": "67-416-43",
+    "type": "Full-size car",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Buick_Roadmaster_--_04-22-2010.jpg/420px-Buick_Roadmaster_--_04-22-2010.jpg"
+  }, {
+    "manufacturer": "Volkswagen",
+    "model": "Phaeton",
+    "year": 2006,
+    "plate": "40-338-11",
+    "type": "Full-size luxury car",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2005_VW_Phaeton.jpg/420px-2005_VW_Phaeton.jpg"
+  }, {
+    "manufacturer": "Land Rover",
+    "model": "Discovery",
+    "year": 2007,
+    "plate": "34-923-93",
+    "type": "Mid-size luxury SUV",
+    "imageUrl": "https://i.pinimg.com/originals/6a/7a/b4/6a7ab453340f3a32a507cced0a73b2ef.jpg"
+  }, {
+    "manufacturer": "Mitsubishi",
+    "model": "Starion",
+    "year": 1985,
+    "plate": "91-378-95",
+    "type": "Sports car",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/1988_Mitsubishi_Starion_Turbo_2.0_Front_%281%29.jpg/420px-1988_Mitsubishi_Starion_Turbo_2.0_Front_%281%29.jpg"
+  }, {
+    "manufacturer": "Chevrolet",
+    "model": "Cavalier",
+    "year": 2000,
+    "plate": "72-916-15",
+    "type": "Compact car",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/VogeysCavalier.JPG/420px-VogeysCavalier.JPG"
+  }, {
+    "manufacturer": "Acura",
+    "model": "MDX",
+    "year": 2012,
+    "plate": "34-434-10",
+    "type": "Mid-size luxury crossover SUV",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Acura_MDX_facelift_front_6.10.18.jpg/420px-Acura_MDX_facelift_front_6.10.18.jpg"
+  }, {
+    "manufacturer": "Rolls-Royce",
+    "model": "Phantom",
+    "year": 2009,
+    "plate": "06-789-71",
+    "type": "Full-size luxury car (F)",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/2019_Rolls-Royce_Phantom_V12_Automatic_6.75.jpg/420px-2019_Rolls-Royce_Phantom_V12_Automatic_6.75.jpg"
+  }, {
+    "manufacturer": "Ford",
+    "model": "Expedition",
+    "year": 2000,
+    "plate": "74-199-64",
+    "type": "Full-size SUV",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/2012_Ford_Expedition_--_NHTSA.jpg/420px-2012_Ford_Expedition_--_NHTSA.jpg"
+  }, {
+    "manufacturer": "Mitsubishi",
+    "model": "3000GT",
+    "year": 1997,
+    "plate": "42-410-13",
+    "type": "Sports car",
+    "imageUrl": "https://www.carscoops.com/wp-content/uploads/2018/03/1991-Mitsubishi-3000GT-VR4.jpg"
+  }]

@@ -1,0 +1,39 @@
+<h2 id="title">Search A Car</h2>
+<div class="container" id="container0">
+  <div class="row" id="searchFields">
+  <div class="col-md-4" style="margin-bottom:10px">
+ 
+      <p style="text-align: center;">Car Model</p>
+      <select class="form-control" id="select0"  name="search">
+      <!-- (selectionChange)="onSelect($event)"> -->
+        <option *ngFor="let model of models" [value]="model">
+          {{model}}
+        </option>
+      </select>
+    </div>
+
+  <div class="col-md-4 " style="margin-bottom:10px">
+
+      <p style="text-align: center;">Car Type</p>
+      <select class="form-control" id="select1" name="search"  style="top: 0;">
+        <!-- (selectionChange)="onSelect1($event)" -->
+        <option *ngFor="let manufacturer of manufacturers" [value]="manufacturer">
+          {{manufacturer}}
+        </option>
+      </select>
+    </div>
+
+   <div class="col-md-4 " style="margin-bottom:10px">
+
+      <p style="text-align: center">Year</p>
+      <select class="form-control" id="select2" name="search">
+        <!-- (selectionChange)="onSelect2($event)"></select> -->
+        <option *ngFor="let year of years" [value]="year" style="bottom:0; overflow:auto">
+          {{year}}
+        </option>
+      </select>
+    </div>
+ 
+
+  </div>
+</div>
